@@ -59,9 +59,3 @@ src
 - Entrada de dados com `Scanner`;
 - Relacionamento entre objetos;
 - Organização em pacotes.
-
-## Observação
-
-Este projeto foi desenvolvido com finalidade **acadêmica**, para aplicar os conceitos estudados em Java em um exemplo de sistema de oficina mecânica.
-
-O projeto não utiliza banco de dados. Por isso, os dados cadastrados ficam disponíveis somente durante a execução do programa.
